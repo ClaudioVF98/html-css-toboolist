@@ -25,7 +25,7 @@ img {
 
 .centraldiv {
     width: 1300px;
-    height: 800px;
+    height: 750px;
     margin: auto;
     margin-top: 2%;
     background-color: white;
@@ -48,6 +48,11 @@ img {
     border-radius: 7%;
 }
 
+hr {
+    margin-top: 10px;
+    border-color: #f6f8f9;
+}
+
 .whitebutton {
     background-color: white;
     border: 1px rgb(184, 184, 184) solid;
@@ -62,6 +67,43 @@ img {
     border: 2px solid #64c0a9;
 }
 
+.cross {
+    color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 2px 5px;
+}
+
 .bluecolor {
     background-color: #47adf1;
+    border-radius: 10%;
+}
+
+.purplecolor {
+    background-color: purple;
+    border-radius: 10%;
+}
+
+.greencolor {
+    background-color: green;
+    border-radius: 10%;
+}
+
+.orangecolor {
+    background-color: orange;
+    border-radius: 10%;
+}
+
+.pinkcolor {
+    background-color: pink;
+    border-radius: 10%;
+}
+
+.lightgreencolor {
+    background-color: lightgreen;
+    border-radius: 10%;
+}
+
+.pdistance {
+    padding-bottom: 20px;
 }
