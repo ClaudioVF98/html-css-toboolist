@@ -2,10 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #f6f8f9;
 }
 
 header {
-    height: 100px;
+    height: 60px;
+    background-color: white;
 }
 
 .container {
@@ -15,4 +21,47 @@ header {
 
 img {
     max width: 100%;
+}
+
+.centraldiv {
+    width: 1300px;
+    height: 800px;
+    margin: auto;
+    margin-top: 2%;
+    background-color: white;
+}
+
+.textchanges {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+    margin: 5px;
+}
+
+.buttons {
+    padding-bottom: 20px;
+}
+
+.bluebutton {
+    background-color: #47adf1; 
+    color: white;
+    border-radius: 7%;
+}
+
+.whitebutton {
+    background-color: white;
+    border: 1px rgb(184, 184, 184) solid;
+    color: gray;
+    border-radius: 7%;
+}
+
+.checkmark {
+    color: #64c0a9;
+    padding: 2px 5px;
+    border-radius: 50%;
+    border: 2px solid #64c0a9;
+}
+
+.bluecolor {
+    background-color: #47adf1;
 }
