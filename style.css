@@ -78,31 +78,42 @@ hr {
 .bluecolor {
     background-color: #47adf1;
     border-radius: 10%;
+    color: white;
+
 }
 
 .purplecolor {
     background-color: purple;
     border-radius: 10%;
+    color: white;
+
 }
 
 .greencolor {
     background-color: green;
     border-radius: 10%;
+    color: white;
+
 }
 
 .orangecolor {
     background-color: orange;
     border-radius: 10%;
+    color: white;
+
 }
 
 .pinkcolor {
     background-color: pink;
     border-radius: 10%;
+    color: white;
 }
 
 .lightgreencolor {
     background-color: lightgreen;
     border-radius: 10%;
+    color: white;
+
 }
 
 .pdistance {
